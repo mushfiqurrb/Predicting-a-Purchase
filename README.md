@@ -1,2 +1,2 @@
-# Predicting a Purchase
- Have used random forest algorithm
+# CSE-445-Project
+A project using Random Forest Classifier
